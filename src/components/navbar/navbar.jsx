@@ -7,7 +7,10 @@ const Navbar = () => {
     <>
       <div className="navbar">
         <div className="navbuttons">
-          <a href="https://github.com/Kush221994/drum-machine" target="_blank">
+          <a
+            href="https://github.com/Kush221994/randomquotemachine"
+            target="_blank"
+          >
             <IconButton color="primary">
               <img src={img1} className="img" />
             </IconButton>
